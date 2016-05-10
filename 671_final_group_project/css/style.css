@@ -1,0 +1,23 @@
+li.list-group-item.active {
+	background-color: #76CBCC !important;
+	border-color: #76CBCC !important;
+}
+
+div#injuryForm2 {
+	margin-top: 80px;
+}
+
+.column{
+	float: left;
+
+}
+.row {
+	display: inline;
+}
+
+div.container.row1 {
+	margin-top: 10px;
+}
+div.col-md-4.col-lg-4 {
+	display: block;
+}
